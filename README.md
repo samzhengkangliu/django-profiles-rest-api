@@ -16,6 +16,15 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Django.
 pip install djangorestframework
 ```
 
+## Run the project
+
+In the project directory, simply run:
+
+```
+python manage.py runserver 5000 
+(it can be any port number you want the server to be run on)
+```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
