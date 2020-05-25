@@ -122,5 +122,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+STATIC_ROOT = 'static/'
+
 # Apply the customed user model
 AUTH_USER_MODEL = 'profiles_api.UserProfile'
