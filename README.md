@@ -1,6 +1,6 @@
-# Django REST API
+# Django Profiles REST API
 
-This is a personal learning project for Django REST API.
+This is a personal learning API project for Django 3 and Django REST Framework.
 
 ## Required Packages
 - asgiref-3.2.7 
